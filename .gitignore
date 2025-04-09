@@ -1,0 +1,34 @@
+# Default ignored files
+/shelf/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Compiled Java classes
+*.class
+
+# Build output artifacts (JAR, WAR, EAR files)
+*.jar
+*.war
+*.ear
+
+# Java Virtual Machine crash logs
+hs_err_pid*
+
+# IntelliJ IDEA configuration files
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven build directory and related files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
